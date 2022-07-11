@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PackageManagerExample</string>
+    <string name="game_a_b_c">Game A B C</string>
+</resources>
